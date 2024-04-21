@@ -26,6 +26,75 @@ https://avesis.gelisim.edu.tr/alcetinkaya
 
 https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ 
 
+-------------------------------------------------------------------------------------------------------------------
+
+This is the list of electronic materials in the share:
+
+Microcontroller: Arduino Nano
+
+Connection Cable: USB Cable
+
+5V LED
+
+HCSR04 Distance Sensor Module
+
+I2C 2x16 LCD Module
+
+1 Way 5V Relay Module
+
+Quad Channel 5V Relay Module
+
+5V Buzzer
+
+DTH11 Temperature and Humidity Sensor Module
+
+MQ Series Gas Sensor Modules: MQ2, MQ3, MQ4, MQ5, MQ6, MQ7, MQ8, MQ9, MQ135 Sensors
+
+Potentiometer
+
+X and Y Axis Joystick Modules
+
+SG90 Servo Motor
+
+Ultrasonic Sensor Mounting Bracket for Servo Motor
+
+Pan-Tilt Kit Attachment for Servo Motor
+
+GY271 and MPU9250-6500 GYRO Module
+
+L298 DC Motor Driver Module
+
+Bluetooth Module
+
+16-Key Touch Button Kit
+
+4-Digit Display Module
+
+RFID Module
+
+LDR Light Sensor Module
+
+Water and Rain Sensor Module
+
+Pulse Sensor Module
+
+PIR Motion Sensor Module
+
+LM35 Temperature Sensor Module
+
+5mW Laser Sensor Module
+
+PCA9685 I2C Module
+
+40A ESC Motor Driver
+
+11.1V 40A BLDC Brushless Motor
+
+BMP180 Pressure Sensor Module
+
+------------------------------------------------------------------------------------------------------------------
+
+This is the list of applications in the share:
 
 1st. First Application: LED
 
@@ -127,4 +196,7 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 
 50th. Fiftieth Application: PCA9685 I2C Servo
 
-In this platform, the content of the applications will be expanded every week, and the steps to be taken will be shared. Additionally, you can follow this space to track the progress of related projects and contribute.
+
+1st. Note: On this platform, the content of applications will be expanded weekly, and development steps will be shared. Additionally, you can follow this space to track the progress of related projects and contribute.
+
+2nd. Note: From your GitHub account, you can support my contributions by 'watching' the project for project notifications, 'starring' to show your appreciation, and 'forking' to make a copy to your own account for collaboration.
