@@ -18,7 +18,9 @@ Lect. Ali CETİNKAYA (MSc.) Istanbul, 2024
 
 Course Resource Links: 
 
-https://github.com/acetinkaya/robotik-arduino-uygulamalari https://alicetinkaya.site/ders-robotik 
+https://github.com/acetinkaya/robotics-arduino-applications
+
+https://alicetinkaya.site/ders-robotik 
 
 https://avesis.gelisim.edu.tr/alcetinkaya 
 
