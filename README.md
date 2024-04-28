@@ -200,3 +200,5 @@ This is the list of applications in the share:
 1st. Note: On this platform, the content of applications will be expanded weekly, and development steps will be shared. Additionally, you can follow this space to track the progress of related projects and contribute.
 
 2nd. Note: From your GitHub account, you can support my contributions by 'watching' the project for project notifications, 'starring' to show your appreciation, and 'forking' to make a copy to your own account for collaboration.
+
+To be continued...
